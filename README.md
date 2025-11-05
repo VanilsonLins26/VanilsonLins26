@@ -58,4 +58,4 @@ Aqui está uma visão geral da minha atividade e das linguagens que mais utilizo
 Estou sempre aberto a novas conexões e oportunidades!
 
 * **E-mail:** [Vanilson.liins@gmail.com](mailto:Vanilson.liins@gmail.com)
-* * **WhatsApp** [(85)98674-9331]
+* **Telefone:** (85) 98674-9331
