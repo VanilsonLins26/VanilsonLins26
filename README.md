@@ -1,16 +1,64 @@
-## Hi there 👋
+# Olá, eu sou o Vanilson Lins! 👋
 
-<!--
-**VanilsonLins26/VanilsonLins26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre Mim
 
-Here are some ideas to get you started:
+[cite_start]Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade de Fortaleza (UNIFOR) [cite: 11, 12][cite_start], com previsão de conclusão em Dezembro de 2026[cite: 12].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[cite_start]Atualmente, estou buscando uma **oportunidade de estágio em Desenvolvimento Web**[cite: 7]. [cite_start]Meu foco principal é o ecossistema .NET [cite: 7][cite_start], onde tenho experiência prática na construção de APIs REST e aplicações MVC com **C#, .NET Core e Entity Framework**. [cite_start]Também possuo conhecimento em **Angular** para o desenvolvimento front-end[cite: 8].
+
+[cite_start]Sou um profissional com alta capacidade de aprendizado [cite: 22][cite_start], proativo [cite: 23] [cite_start]e motivado [cite: 25][cite_start], sempre buscando aplicar e expandir meus conhecimentos em soluções desafiadoras[cite: 9].
+
+## 🛠️ Tecnologias e Ferramentas
+
+Meu stack principal gira em torno do ecossistema .NET, mas também estou familiarizado com outras tecnologias:
+
+| Categoria | Tecnologias |
+| --- | --- |
+| **Backend** | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![API REST](https://img.shields.io/badge/API_REST-000000?style=for-the-badge) ![.NET MVC](https://img.shields.io/badge/.NET_MVC-512BD4?style=for-the-badge&logo=.net&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) |
+| **Front-End & Web** | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| **Banco de Dados** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) |
+| **DevOps & Cloud** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) |
+| **Metodologias** | ![Scrum](https://img.shields.io/badge/Scrum-009BDB?style=for-the-badge) ![Kanban](https://img.shields.io/badge/Kanban-0079BF?style=for-the-badge) |
+
+* **Conhecimentos Adicionais:** Entity Framework, LINQ, POO, GitFlow, Padrões de Projeto.
+
+## 🚀 Meus Principais Projetos
+
+Aqui estão alguns projetos que desenvolvi para aplicar meus conhecimentos:
+
+#### 1. API para Ponto de Vendas (PDV) de Padaria
+* [cite_start]Uma API REST robusta para gerenciar o sistema de PDV[cite: 33].
+* [cite_start]Implementei recursos essenciais como **autenticação com Token JWT**, paginação de resultados e uma arquitetura focada em serviços[cite: 34].
+* [cite_start]**Tecnologias:** .NET Core, API REST, Entity Framework, C#, MySQL[cite: 35].
+* `https://github.com/VanilsonLins26/ApiPDV`
+
+#### 2. Sistema MVC de Ponto de Vendas (PDV) para Padaria
+* [cite_start]Projeto inicial para automatizar vendas e controle de estoque de uma padaria[cite: 28].
+* [cite_start]Possui funcionalidades de CRUD de produtos, registro de vendas e controle de inventário[cite: 29].
+* [cite_start]**Tecnologias:** .NET Core MVC, Entity Framework, C#, MySQL, Bootstrap[cite: 30].
+* `https://github.com/VanilsonLins26/Padaria`
+
+* #### 1. Sistema de Indicação
+* Uma Single Page Application (SPA) completa que implementa um sistema de cadastro de usuários com pontuação por indicação, desenvolvido para o processo seletivo da Vortex.
+* **Funcionalidades:** Cadastro de usuários, autenticação segura via JWT, lógica de indicação (usuário ganha +1 ponto ao indicar), página de perfil protegida e persistência de sessão.
+* **Tecnologias:** ASP.NET Core 9, Angular 17 (Standalone), ASP.NET Core Identity, JWT, Entity Framework Core e SQLite.
+* `https://github.com/VanilsonLins26/SistemaIndicacao`
+
+#### 3. Jogo de Xadrez em C#
+* [cite_start]Simulação de uma partida de xadrez completa no console[cite: 38].
+* [cite_start]Projeto focado em aplicar conceitos avançados de **Programação Orientada a Objetos (POO)**[cite: 39].
+* [cite_start]**Tecnologias:** C#, POO[cite: 39].
+* `https://github.com/VanilsonLins26/Xadrez`
+
+## 📊 Minhas Estatísticas do GitHub
+
+Aqui está uma visão geral da minha atividade e das linguagens que mais utilizo no GitHub:
+
+[![Estatísticas do GitHub de Vanilson](https://github-readme-stats.vercel.app/api?username=vanilsonlins26&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Linguagens de Vanilson](https://github-readme-stats.vercel.app/api/top-langs/?username=vanilsonlins26&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📫 Como me encontrar
+
+Estou sempre aberto a novas conexões e oportunidades!
+
+* [cite_start]**E-mail:** [Vanilson.liins@gmail.com](mailto:Vanilson.liins@gmail.com) [cite: 5]
