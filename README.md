@@ -2,11 +2,11 @@
 
 ## 🚀 Sobre Mim
 
-[cite_start]Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade de Fortaleza (UNIFOR) [cite: 11, 12][cite_start], com previsão de conclusão em Dezembro de 2026[cite: 12].
+Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade de Fortaleza (UNIFOR), com previsão de conclusão em Dezembro de 2026.
 
-[cite_start]Atualmente, estou buscando uma **oportunidade de estágio em Desenvolvimento Web**[cite: 7]. [cite_start]Meu foco principal é o ecossistema .NET [cite: 7][cite_start], onde tenho experiência prática na construção de APIs REST e aplicações MVC com **C#, .NET Core e Entity Framework**. [cite_start]Também possuo conhecimento em **Angular** para o desenvolvimento front-end[cite: 8].
+Atualmente, estou buscando uma **oportunidade de estágio em Desenvolvimento Web**. Meu foco principal é o ecossistema .NET, onde tenho experiência prática na construção de APIs REST e aplicações MVC com **C#, .NET Core e Entity Framework**. Também possuo conhecimento em **Angular** para o desenvolvimento front-end.
 
-[cite_start]Sou um profissional com alta capacidade de aprendizado [cite: 22][cite_start], proativo [cite: 23] [cite_start]e motivado [cite: 25][cite_start], sempre buscando aplicar e expandir meus conhecimentos em soluções desafiadoras[cite: 9].
+Sou um profissional com alta capacidade de aprendizado, proativo e motivado, sempre buscando aplicar e expandir meus conhecimentos em soluções desafiadoras.
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -26,29 +26,25 @@ Meu stack principal gira em torno do ecossistema .NET, mas também estou familia
 
 Aqui estão alguns projetos que desenvolvi para aplicar meus conhecimentos:
 
-#### 1. API para Ponto de Vendas (PDV) de Padaria
-* [cite_start]Uma API REST robusta para gerenciar o sistema de PDV[cite: 33].
-* [cite_start]Implementei recursos essenciais como **autenticação com Token JWT**, paginação de resultados e uma arquitetura focada em serviços[cite: 34].
-* [cite_start]**Tecnologias:** .NET Core, API REST, Entity Framework, C#, MySQL[cite: 35].
-* `https://github.com/VanilsonLins26/ApiPDV`
-
-#### 2. Sistema MVC de Ponto de Vendas (PDV) para Padaria
-* [cite_start]Projeto inicial para automatizar vendas e controle de estoque de uma padaria[cite: 28].
-* [cite_start]Possui funcionalidades de CRUD de produtos, registro de vendas e controle de inventário[cite: 29].
-* [cite_start]**Tecnologias:** .NET Core MVC, Entity Framework, C#, MySQL, Bootstrap[cite: 30].
-* `https://github.com/VanilsonLins26/Padaria`
-
-* #### 1. Sistema de Indicação
-* Uma Single Page Application (SPA) completa que implementa um sistema de cadastro de usuários com pontuação por indicação, desenvolvido para o processo seletivo da Vortex.
-* **Funcionalidades:** Cadastro de usuários, autenticação segura via JWT, lógica de indicação (usuário ganha +1 ponto ao indicar), página de perfil protegida e persistência de sessão.
+#### 1. [Sistema de Indicação (Full-Stack SPA)](https://github.com/VanilsonLins26/SistemaIndicacao)
+* Uma Single Page Application (SPA) completa com sistema de cadastro e pontuação por indicação (Desafio Vortex).
+* **Funcionalidades:** Cadastro de usuários, autenticação segura via JWT, lógica de indicação (+1 ponto), página de perfil protegida e persistência de sessão.
 * **Tecnologias:** ASP.NET Core 9, Angular 17 (Standalone), ASP.NET Core Identity, JWT, Entity Framework Core e SQLite.
-* `https://github.com/VanilsonLins26/SistemaIndicacao`
 
-#### 3. Jogo de Xadrez em C#
-* [cite_start]Simulação de uma partida de xadrez completa no console[cite: 38].
-* [cite_start]Projeto focado em aplicar conceitos avançados de **Programação Orientada a Objetos (POO)**[cite: 39].
-* [cite_start]**Tecnologias:** C#, POO[cite: 39].
-* `https://github.com/VanilsonLins26/Xadrez`
+#### 2. [API para Ponto de Vendas (PDV) de Padaria](https://github.com/VanilsonLins26/ApiPDV)
+* Uma API REST robusta para gerenciar o sistema de PDV.
+* Implementei recursos como **autenticação com Token JWT**, paginação de resultados e arquitetura focada em serviços.
+* **Tecnologias:** .NET Core, API REST, Entity Framework, C#, MySQL.
+
+#### 3. [Sistema MVC de Ponto de Vendas (PDV) para Padaria](https://github.com/VanilsonLins26/Padaria)
+* Projeto para automatizar vendas e controle de estoque de uma padaria.
+* Possui funcionalidades de CRUD de produtos, registro de vendas e controle de inventário.
+* **Tecnologias:** .NET Core MVC, Entity Framework, C#, MySQL, Bootstrap.
+
+#### 4. [Jogo de Xadrez em C#](https://github.com/VanilsonLins26/Xadrez)
+* Simulação de uma partida de xadrez completa no console.
+* Projeto focado em aplicar conceitos avançados de **Programação Orientada a Objetos (POO)**.
+* **Tecnologias:** C#, POO.
 
 ## 📊 Minhas Estatísticas do GitHub
 
@@ -61,4 +57,4 @@ Aqui está uma visão geral da minha atividade e das linguagens que mais utilizo
 
 Estou sempre aberto a novas conexões e oportunidades!
 
-* [cite_start]**E-mail:** [Vanilson.liins@gmail.com](mailto:Vanilson.liins@gmail.com) [cite: 5]
+* **E-mail:** [Vanilson.liins@gmail.com](mailto:Vanilson.liins@gmail.com)
