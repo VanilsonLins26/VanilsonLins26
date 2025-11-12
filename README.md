@@ -52,7 +52,18 @@ Aqui estão alguns projetos que desenvolvi para aplicar meus conhecimentos:
   <img src="https://github-stats-alpha.vercel.app/api?username=VanilsonLins26&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="Estatísticas do GitHub de Vanilson" />
 </p>
 
-> *Gerado com [Awesome GitHub Stats](https://github.com/brunobritodev/awesome-github-stats)*
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VanilsonLins26&theme=radical" alt="Sequência de commits" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VanilsonLins26&theme=radical" alt="Resumo de atividades do GitHub" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VanilsonLins26&theme=radical" alt="Linguagens mais usadas" />
+</p>
+
+> 🔹 **Total de Commits, PRs e Repositórios Públicos** atualizados automaticamente pelos painéis acima.
+
+---
 
 ---
 
