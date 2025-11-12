@@ -46,13 +46,15 @@ Aqui estão alguns projetos que desenvolvi para aplicar meus conhecimentos:
 * Projeto focado em aplicar conceitos avançados de **Programação Orientada a Objetos (POO)**.
 * **Tecnologias:** C#, POO.
 
-## 📊 Minhas Estatísticas do GitHub
+## 📈 Estatísticas do GitHub
 
-Aqui está uma visão geral da minha atividade e das linguagens que mais utilizo no GitHub:
+<p align="center">
+  <img src="https://github-stats-alpha.vercel.app/api?username=VanilsonLins26&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="Estatísticas do GitHub de Vanilson" />
+</p>
 
-[![Estatísticas do GitHub de Vanilson](https://github-readme-stats.vercel.app/api?username=VanilsonLins26&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+> *Gerado com [Awesome GitHub Stats](https://github.com/brunobritodev/awesome-github-stats)*
 
-[![Top Linguagens de Vanilson](https://github-readme-stats.vercel.app/api/top-langs/?username=VanilsonLins26&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+---
 
 
 ## 📫 Como me encontrar
