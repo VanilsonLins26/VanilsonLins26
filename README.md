@@ -50,8 +50,10 @@ Aqui estão alguns projetos que desenvolvi para aplicar meus conhecimentos:
 
 Aqui está uma visão geral da minha atividade e das linguagens que mais utilizo no GitHub:
 
-[![Estatísticas do GitHub de Vanilson](https://github-readme-stats.vercel.app/api?username=VanilsonLins26&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Estatísticas do GitHub de Vanilson](https://github-readme-stats.vercel.app/api?username=VanilsonLins26&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Linguagens de Vanilson](https://github-readme-stats.vercel.app/api/top-langs/?username=VanilsonLins26&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 📫 Como me encontrar
 
