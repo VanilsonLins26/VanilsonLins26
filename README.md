@@ -1,63 +1,61 @@
+<div align="center">
+
 # Olá, eu sou o Vanilson Lins! 👋
+
+**Desenvolvedor Full Stack | .NET & Angular | Clean Architecture & DDD**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanilson-lins-507597309/)
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Vanilson.liins@gmail.com)
+
+</div>
 
 ## 🚀 Sobre Mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade de Fortaleza (UNIFOR), com previsão de conclusão em Dezembro de 2026.
+Sou graduado em Análise e Desenvolvimento de Sistemas pela Universidade de Fortaleza (UNIFOR). 
 
-Atualmente, estou buscando uma **oportunidade de estágio em Desenvolvimento Web**. Meu foco principal é o ecossistema .NET, onde tenho experiência prática na construção de APIs REST e aplicações MVC com **C#, .NET Core e Entity Framework**. Também possuo conhecimento em **Angular** para o desenvolvimento front-end.
+Atuo no desenvolvimento **Full Stack** com foco principal no ecossistema **.NET (C#) e Angular**. Minha paixão é construir aplicações escaláveis, resilientes e de fácil manutenção. Para isso, aplico no meu dia a dia conceitos avançados de engenharia de software, como **Clean Architecture, Domain-Driven Design (DDD), testes automatizados e mensageria assíncrona**.
 
-Sou um profissional com alta capacidade de aprendizado, proativo e motivado, sempre buscando aplicar e expandir meus conhecimentos em soluções desafiadoras.
+Sou um profissional proativo, movido por desafios lógicos e com forte capacidade analítica para depurar problemas e otimizar processos sistêmicos de ponta a ponta.
+
+---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-Meu stack principal gira em torno do ecossistema .NET, mas também estou familiarizado com outras tecnologias:
-
 | Categoria | Tecnologias |
-| --- | --- |
-| **Backend** | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![API REST](https://img.shields.io/badge/API_REST-000000?style=for-the-badge) ![.NET MVC](https://img.shields.io/badge/.NET_MVC-512BD4?style=for-the-badge&logo=.net&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) |
-| **Front-End & Web** | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
-| **Banco de Dados** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) |
-| **DevOps & Cloud** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) |
-| **Metodologias** | ![Scrum](https://img.shields.io/badge/Scrum-009BDB?style=for-the-badge) ![Kanban](https://img.shields.io/badge/Kanban-0079BF?style=for-the-badge) |
-
-* **Conhecimentos Adicionais:** Entity Framework, LINQ, POO, GitFlow, Padrões de Projeto, IdentityServer.
-
-## 🚀 Meus Principais Projetos
-
-Aqui estão alguns projetos que desenvolvi para aplicar meus conhecimentos:
-
-#### 1. [Sistema de Gestão de Encomendas (Full-Stack & Microservices)](https://github.com/VanilsonLins26/NPOrder)
-* Um ecossistema completo para gestão de encomendas (Área do Cliente e Painel Admin) com arquitetura distribuída.
-* **Destaques:** Pagamentos online integrados com **Mercado Pago**, notificações automáticas via WhatsApp (**Evolution API**), autenticação centralizada com **IdentityServer**, frontend moderno com **Angular 19 (Signals)** e backend em **.NET 9**.
-* **Tecnologias:** .NET 9, Angular 19, Mercado Pago SDK, PostgreSQL, Docker, IdentityServer.
-
-#### 2. [Sistema de Indicação (Full-Stack SPA)](https://github.com/VanilsonLins26/SistemaIndicacao)
-* Uma Single Page Application (SPA) completa com sistema de cadastro e pontuação por indicação (Desafio Vortex).
-* **Funcionalidades:** Cadastro de usuários, autenticação segura via JWT, lógica de indicação (+1 ponto), página de perfil protegida e persistência de sessão.
-* **Tecnologias:** ASP.NET Core 9, Angular 17 (Standalone), ASP.NET Core Identity, JWT, Entity Framework Core e SQLite.
-
-#### 3. [API para Ponto de Vendas (PDV) de Padaria](https://github.com/VanilsonLins26/ApiPDV)
-* Uma API REST robusta para gerenciar o sistema de PDV.
-* Implementei recursos como **autenticação com Token JWT**, paginação de resultados e arquitetura focada em serviços.
-* **Tecnologias:** .NET Core, API REST, Entity Framework, C#, MySQL.
-
-#### 4. [Sistema MVC de Ponto de Vendas (PDV) para Padaria](https://github.com/VanilsonLins26/Padaria)
-* Projeto para automatizar vendas e controle de estoque de uma padaria.
-* Possui funcionalidades de CRUD de produtos, registro de vendas e controle de inventário.
-* **Tecnologias:** .NET Core MVC, Entity Framework, C#, MySQL, Bootstrap.
-
-#### 5. [Jogo de Xadrez em C#](https://github.com/VanilsonLins26/Xadrez)
-* Simulação de uma partida de xadrez completa no console.
-* Projeto focado em aplicar conceitos avançados de **Programação Orientada a Objetos (POO)**.
-* **Tecnologias:** C#, POO.
+| :--- | :--- |
+| **Back-End** | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET_9-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) |
+| **Front-End** | ![Angular](https://img.shields.io/badge/Angular_19-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5/CSS3](https://img.shields.io/badge/HTML5_&_CSS3-E34F26?style=for-the-badge) |
+| **Bancos de Dados** | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) |
+| **Arquitetura & Qualidade** | ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge) ![DDD](https://img.shields.io/badge/DDD-005571?style=for-the-badge) ![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge) |
+| **Mensageria & Nuvem** | ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
 
 ---
 
+## 💻 Projetos em Destaque
+
+### 1. [IOrder - Plataforma de Encomendas & Delivery (Em Desenvolvimento) 🚧](https://github.com/VanilsonLins26/IOrder)
+Uma plataforma robusta para encomendas personalizadas com fluxo de aprovação direta, unindo E-commerce e Backoffice. Focado em padrões arquiteturais de nível de produção.
+* **Arquitetura:** Clean Architecture, Domain-Driven Design (DDD), Read/Write Segregation.
+* **Back-End:** .NET 9 Web API, Testes Automatizados (xUnit, Bogus), tratamento global de exceções, Background Services (Workers) para sincronização assíncrona.
+* **Mensageria & Real-time:** RabbitMQ para processamento resiliente (Webhooks/WhatsApp) e SignalR para Chat em tempo real.
+* **Persistência Poliglota:** MySQL (Transacional/ACID) + MongoDB (Leitura massiva do Chat).
+
+### 2. [A Nossa Padaria / NPOrder (Deploy em Produção) 🚀](https://github.com/VanilsonLins26/NPOrder)
+Ecossistema completo de gestão (E-commerce Cliente + Dashboard Administrativo) com arquitetura distribuída.
+* **Front-End:** Angular 19 (Signals, RxJS) integrado ao PrimeNG. [Acesso à Live Demo.](https://np-order.vercel.app/)
+* **Back-End:** .NET 9, PostgreSQL, Entity Framework Core com Deploy via Render.
+* **Integrações:** Autenticação OIDC via **Auth0**, fluxos de pagamento com Mercado Pago SDK e notificações automatizadas via WhatsApp (Evolution API em Docker).
+
+### 3. [Sistema de Indicação (SPA Full-Stack) 🏆](https://github.com/VanilsonLins26/SistemaIndicacao)
+Single Page Application desenvolvida para gerenciar cadastros e pontuações por indicações (Desafio Vortex).
+* **Tech Stack:** ASP.NET Core 9, Angular 17 (Standalone), Identity, JWT, SQLite.
+
+### 4. [API para Ponto de Vendas (PDV)](https://github.com/VanilsonLins26/ApiPDV)
+API REST estruturada para gerenciar sistemas de caixa, com autenticação JWT, paginação avançada e arquitetura baseada em serviços.
+
 ---
 
-## 📫 Como me encontrar
-
-Estou sempre aberto a novas conexões e oportunidades!
-
-* **E-mail:** [Vanilson.liins@gmail.com](mailto:Vanilson.liins@gmail.com)
-* **Telefone:** (85) 98674-9331
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanilsonLins26&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanilsonLins26&layout=compact&langs_count=7&theme=radical"/>
+</div>
