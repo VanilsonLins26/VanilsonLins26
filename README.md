@@ -1,61 +1,81 @@
 <div align="center">
 
-# Olá, eu sou o Vanilson Lins! 👋
+# Vanilson Lins
 
-**Desenvolvedor Full Stack | .NET & Angular | Clean Architecture & DDD**
+**Full Stack Developer | .NET & Angular | Clean Architecture & DDD**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanilson-lins-507597309/)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Vanilson.liins@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://np-order.vercel.app/)
 
 </div>
 
-## 🚀 Sobre Mim
+## Sobre Mim
 
-Sou graduado em Análise e Desenvolvimento de Sistemas pela Universidade de Fortaleza (UNIFOR). 
+Graduado em Análise e Desenvolvimento de Sistemas pela Universidade de Fortaleza (UNIFOR), com CRA 9.23/10.
 
-Atuo no desenvolvimento **Full Stack** com foco principal no ecossistema **.NET (C#) e Angular**. Minha paixão é construir aplicações escaláveis, resilientes e de fácil manutenção. Para isso, aplico no meu dia a dia conceitos avançados de engenharia de software, como **Clean Architecture, Domain-Driven Design (DDD), testes automatizados e mensageria assíncrona**.
+Desenvolvo aplicações full stack utilizando **.NET (C#) e Angular**, com foco em arquitetura limpa, testes automatizados e sistemas escaláveis. Meu principal projeto, o **IOrder**, é uma plataforma de delivery com chat em tempo real, pagamentos via Stripe e integração com WhatsApp — aplicando conceitos de **Clean Architecture, DDD, mensageria assíncrona e CI/CD**.
 
-Sou um profissional proativo, movido por desafios lógicos e com forte capacidade analítica para depurar problemas e otimizar processos sistêmicos de ponta a ponta.
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Back-End** | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET_9-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) |
-| **Front-End** | ![Angular](https://img.shields.io/badge/Angular_19-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5/CSS3](https://img.shields.io/badge/HTML5_&_CSS3-E34F26?style=for-the-badge) |
-| **Bancos de Dados** | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) |
-| **Arquitetura & Qualidade** | ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge) ![DDD](https://img.shields.io/badge/-DDD-005571?style=for-the-badge) ![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge) |
-| **Mensageria & Nuvem** | ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
+**Disponível para estágio e oportunidades júnior.**
 
 ---
 
-## 💻 Projetos em Destaque
+## Stack Principal
 
-### 1. [IOrder - Plataforma de Encomendas & Delivery (Em Desenvolvimento) 🚧](https://github.com/VanilsonLins26/IOrder)
-Uma plataforma robusta para encomendas personalizadas com fluxo de aprovação direta, unindo E-commerce e Backoffice. Focado em padrões arquiteturais de nível de produção.
-* **Arquitetura:** Clean Architecture, Domain-Driven Design (DDD), Read/Write Segregation.
-* **Back-End:** .NET 9 Web API, Testes Automatizados (xUnit, Bogus), tratamento global de exceções, Background Services (Workers) para sincronização assíncrona.
-* **Mensageria & Real-time:** RabbitMQ para processamento resiliente (Webhooks/WhatsApp) e SignalR para Chat em tempo real.
-* **Persistência Poliglota:** MySQL (Transacional/ACID) + MongoDB (Leitura massiva do Chat).
-
-### 2. [A Nossa Padaria / NPOrder (Deploy em Produção) 🚀](https://github.com/VanilsonLins26/NPOrder)
-Ecossistema completo de gestão (E-commerce Cliente + Dashboard Administrativo) com arquitetura distribuída.
-* **Front-End:** Angular 19 (Signals, RxJS) integrado ao PrimeNG. [Acesso à Live Demo.](https://np-order.vercel.app/)
-* **Back-End:** .NET 9, PostgreSQL, Entity Framework Core com Deploy via Render.
-* **Integrações:** Autenticação OIDC via **Auth0**, fluxos de pagamento com Mercado Pago SDK e notificações automatizadas via WhatsApp (Evolution API em Docker).
-
-### 3. [Sistema de Indicação (SPA Full-Stack) 🏆](https://github.com/VanilsonLins26/SistemaIndicacao)
-Single Page Application desenvolvida para gerenciar cadastros e pontuações por indicações (Desafio Vortex).
-* **Tech Stack:** ASP.NET Core 9, Angular 17 (Standalone), Identity, JWT, SQLite.
-
-### 4. [API para Ponto de Vendas (PDV)](https://github.com/VanilsonLins26/ApiPDV)
-API REST estruturada para gerenciar sistemas de caixa, com autenticação JWT, paginação avançada e arquitetura baseada em serviços.
+| Camada | Tecnologias |
+|:---|:---|
+| **Back-End** | C#, .NET (Core a 10), ASP.NET Core Web API, Entity Framework Core |
+| **Front-End** | Angular 20, TypeScript, Signals, RxJS, HTML5/CSS3 |
+| **Bancos de Dados** | MySQL, PostgreSQL, Redis |
+| **Arquitetura** | Clean Architecture, DDD, SOLID, CQRS |
+| **Mensageria** | RabbitMQ, Apache Kafka, SignalR |
+| **Qualidade** | xUnit, TestContainers, FluentValidation |
+| **DevOps** | Docker, Azure Pipelines, CI/CD |
+| **Integrações** | Auth0, Stripe, Cloudinary, WhatsApp (Evolution API) |
 
 ---
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanilsonLins26&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanilsonLins26&layout=compact&langs_count=7&theme=radical"/>
-</div>
+## Projetos em Destaque
+
+### IOrder - Plataforma de Encomendas & Delivery
+> Projeto principal de portfólio. Plataforma SaaS com chat em tempo real, pagamentos e notificações.
+
+![.NET](https://img.shields.io/badge/.NET-10.0-512BD4?style=flat&logo=dotnet)
+![Angular](https://img.shields.io/badge/Angular-20-DD0031?style=flat&logo=angular)
+![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=flat&logo=mysql)
+![Redis](https://img.shields.io/badge/Redis-7.0-DC382D?style=flat&logo=redis)
+
+- Clean Architecture + DDD com segregação read/write
+- Chat em tempo real (SignalR + RabbitMQ + dedup via Redis)
+- Pagamentos via Stripe (PIX, cartão, boleto)
+- Notificações por WhatsApp e E-mail via Domain Events (Kafka)
+- Cache distribuído (Cache-Aside com Decorator Pattern)
+- CI/CD com Azure Pipelines + TestContainers
+
+**[Ver repositório](https://github.com/VanilsonLins26/IOrder)** | **[Documentação completa](https://github.com/VanilsonLins26/IOrder#readme)**
+
+---
+
+### A Nossa Padaria (NPOrder) - Deploy em Produção
+> Sistema completo de gestão com e-commerce + dashboard administrativo. **Já em produção.**
+
+![Angular](https://img.shields.io/badge/Angular-19-DD0031?style=flat&logo=angular)
+![.NET](https://img.shields.io/badge/.NET-9-512BD4?style=flat&logo=dotnet)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql)
+
+- E-commerce B2C + Backoffice integrados
+- Autenticação OIDC via Auth0 (SSO Google)
+- Pagamento com Mercado Pago SDK
+- Notificações via WhatsApp (Evolution API)
+- Deploy automatizado: Vercel (Front) + Render (Back)
+
+**[Demo Online](https://np-order.vercel.app/)** | **[Ver repositório](https://github.com/VanilsonLins26/NPOrder)**
+
+---
+
+### Outros Projetos
+
+| Projeto | Descrição | Stack |
+|:---|:---|:---|
+| [Sistema de Indicação](https://github.com/VanilsonLins26/SistemaIndicacao) | SPA para gestão de indicações e pontuação (Desafio Vortex) | .NET 9, Angular 17, JWT |
+| [API PDV](https://github.com/VanilsonLins26/ApiPDV) | API REST para ponto de vendas com autenticação e paginação | .NET, MySQL, Swagger |
