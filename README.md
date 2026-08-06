@@ -51,7 +51,7 @@ Desenvolvo aplicações full stack utilizando **.NET (C#) e Angular**, com foco 
 - Cache distribuído (Cache-Aside com Decorator Pattern)
 - CI/CD com Azure Pipelines + TestContainers
 
-**[Ver repositório](https://github.com/VanilsonLins26/IOrder)** | **[Documentação completa](https://github.com/VanilsonLins26/IOrder#readme)**
+**[Ver repositório](https://github.com/VanilsonLins26/IOrder)**
 
 ---
 
